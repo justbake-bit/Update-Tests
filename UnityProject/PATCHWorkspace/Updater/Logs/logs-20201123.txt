@@ -1,0 +1,2 @@
+2020-11-23 22:39:15.733 -04:00 [INF] ===> [Game updating] process STARTED! <===
+2020-11-23 22:39:16.401 -04:00 [ERR] [Game updating] process FAILED! Our servers are not responding... Wait some minutes and retry!

@@ -1,0 +1,998 @@
+{
+  "Entries": [
+    {
+      "RelativePath": "UnityCrashHandler32.exe",
+      "Size": 923136,
+      "LastWriting": "2020-11-14T01:04:58Z",
+      "Hash": "/yt7Xayh63I71aHkGShHc24uenc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "UnityPlayer.dll",
+      "Size": 20081664,
+      "LastWriting": "2020-11-14T01:10:56Z",
+      "Hash": "Yg+lihJiFFEqlxdkFu0ZqnzRGkk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests.exe",
+      "Size": 640000,
+      "LastWriting": "2020-11-14T01:09:32Z",
+      "Hash": "TWindKiTV/7fNWZBGQBz3X7811Q",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Size": 3915776,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "SMuZSp1nxJtyeXM1Kz7ytydXdU0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Size": 612352,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "EdEnHV5y3gvol5vgfRvqIlbB3KA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
+      "Size": 311984,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "LVRU4WHeiltlkQ8nvXDZ0K2PpHY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/config",
+      "Size": 3276,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "xEg15Igdlal7WXvr/13roCM6WIc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Size": 29116,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "2NtxEfzloI2LfJpuHgrS+/NM/hI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "3Svi28zTRzZxkwGu6SQp1CWOpaA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Size": 11686,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "pNfgVRb2PWq2cyeymdT7KFLLhAs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Size": 33648,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "kkW+/NEWRY6WGWlPGnhcUPphtY4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Size": 18848,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "fXdtcwy9JTVkcT82Vz3YNmeCeIw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Size": 60575,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "s+S1CKqzzyAcBoknE7Q92wxDt64",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Size": 34106,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "HhGPS1wcansYWOP8yxsdEJVWGXY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Size": 2622,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "jhfirsQjqOb7Q+jL5iFQQCF7uKM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Size": 18857,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "6j4q1tcdSDxUsShS3L3NC6pWmYg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Size": 1605,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Size": 25817,
+      "LastWriting": "2020-11-14T01:04:56Z",
+      "Hash": "k2Ug1btcAKGYXXpMTw73Y6kDGGI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/app.info",
+      "Size": 27,
+      "LastWriting": "2020-11-24T02:36:28.0045815Z",
+      "Hash": "wdtxd8+mRMugpRK0bYqmBU/jE3o",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/boot.config",
+      "Size": 113,
+      "LastWriting": "2020-11-24T02:36:25.7903177Z",
+      "Hash": "6/wI+EhY1qGKibEsdvbM+/Wj0Rk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/globalgamemanagers",
+      "Size": 48036,
+      "LastWriting": "2020-11-24T02:36:19.4705484Z",
+      "Hash": "95BmvnxGnF5d8N5Mk/iKlMezgbI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/globalgamemanagers.assets",
+      "Size": 64708,
+      "LastWriting": "2020-11-24T02:36:19.7148667Z",
+      "Hash": "aMdXxKWZ3CGwymdD8K05YaPPlF4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/level0",
+      "Size": 16440,
+      "LastWriting": "2020-11-24T02:36:17.6861341Z",
+      "Hash": "zKKF//7+4WU3BYtOPfjq6mlD6j4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/level1",
+      "Size": 6552,
+      "LastWriting": "2020-11-24T02:36:17.926323Z",
+      "Hash": "ndGqe/hzJVoApDbM8paTlO66EE0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/resources.assets",
+      "Size": 60040,
+      "LastWriting": "2020-11-24T02:36:19.7498041Z",
+      "Hash": "s+2hyNnXb/N1UBYHC0ll1t92JME",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/resources.assets.resS",
+      "Size": 13435736,
+      "LastWriting": "2020-11-24T02:36:19.7458135Z",
+      "Hash": "i5eISgDA7ea7TVRSqmqq/TD/mYU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/sharedassets0.assets",
+      "Size": 16084,
+      "LastWriting": "2020-11-24T02:36:20.1162064Z",
+      "Hash": "cKKxjsUjQ8VtjZnRtIhIfWxiXgA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/sharedassets0.assets.resS",
+      "Size": 174816,
+      "LastWriting": "2020-11-24T02:36:20.1132367Z",
+      "Hash": "uUh1l1ZcMjZcxM/9BDmwVeifhXY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/sharedassets1.assets",
+      "Size": 4265,
+      "LastWriting": "2020-11-24T02:36:20.1251897Z",
+      "Hash": "a6z2q9F/GlTrFZ0yY0qp90/C6v0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Assembly-CSharp.dll",
+      "Size": 91136,
+      "LastWriting": "2020-11-24T02:36:15.2836274Z",
+      "Hash": "DZGyFk8YrxHCLgNjo9mWvk+9Eww",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Dropbox.Api.dll",
+      "Size": 4196352,
+      "LastWriting": "2020-10-11T09:19:16Z",
+      "Hash": "3VqoTcd1th5JsKGwuJBW2CmA6Yc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/ICSharpCode.SharpZipLib.dll",
+      "Size": 198144,
+      "LastWriting": "2020-10-11T09:19:56Z",
+      "Hash": "/hIbV26s5R5reLt4bLZQDccCBnI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Mono.Security.dll",
+      "Size": 310272,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "6UAFjP9dxYTBHcbksRHoWj9soG4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/mscorlib.dll",
+      "Size": 3905024,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "GPT3imBx/I3NYEHwz773kGk/+kQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/netstandard.dll",
+      "Size": 84992,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "fIAi//MKRboElA67fvkkqRRgVuM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Newtonsoft.Json.dll",
+      "Size": 693680,
+      "LastWriting": "2020-10-11T09:19:28Z",
+      "Hash": "34P8s2OVlq1C1b6DFO+dZyB5GYs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Serilog.dll",
+      "Size": 126464,
+      "LastWriting": "2020-10-11T09:19:33Z",
+      "Hash": "xEr4bDjiKNlFnmiBRH+QVeG8Sm8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Serilog.Sinks.File.dll",
+      "Size": 29184,
+      "LastWriting": "2020-10-11T09:19:03Z",
+      "Hash": "T4sHu9j+KqzLeG/iZE3ZapBpTug",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Collections.dll",
+      "Size": 5120,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "rZAqxFblE9xJe3XM10TFtlY7J5A",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.ComponentModel.Composition.dll",
+      "Size": 247808,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "SCDsSnVY4Yqh6hUdIs8ZILgrI6c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Configuration.dll",
+      "Size": 43008,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "tB7Ho4cItLZa6stL7ngnBxGL9WM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Core.dll",
+      "Size": 1057792,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "ysgRMu+KdswL7pnfpf/CCWwCuEg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Data.dll",
+      "Size": 1941504,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "WZa1x4JjGi5/J29fZggJxCGBCRY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Diagnostics.StackTrace.dll",
+      "Size": 6656,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "bFzumljc9JP5TfJ7feF/Gb3wIeM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.dll",
+      "Size": 2141696,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "6J7UeKoDxDp6p5F9QSypRKWxXZU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Drawing.dll",
+      "Size": 184320,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "mpWFXd8BZjjnLDu6h0mCOWn82ec",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.EnterpriseServices.dll",
+      "Size": 33280,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "AFuryKwIza+5cnx2uMetS4wmEsc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Globalization.dll",
+      "Size": 5120,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "FIcY44whPeQN7jXhTwqwOAYD9do",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Globalization.Extensions.dll",
+      "Size": 6144,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "RL/x8ksjX3QvhOTxUukS+gRS7J8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.IO.Compression.dll",
+      "Size": 98816,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "w647zVyNmvd8xXnh0zX4z20qJBU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Size": 23040,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "uAl5lJuBfSav4KiosDWPcE7OgrI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.IO.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "w3oZqyrcI/Q5WtXqwqGM9aX93ss",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.IO.FileSystem.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "8e8Ty10jKFY4HRP2uOLpXb39pr4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.IO.FileSystem.Primitives.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "dGs5pwo7hb9x9XMKbUrwr1PHG7c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Linq.dll",
+      "Size": 4096,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "fOOc0z949HT40uwPEFj80aa53Zg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Net.Http.dll",
+      "Size": 114688,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "lXQBIQ08nhhvFx+S3ssatMhY8Lc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Numerics.dll",
+      "Size": 114176,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "4nHOnv5OFAqKVIkgKZK/gPv0WYY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Runtime.dll",
+      "Size": 12800,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "GcDI1G7JMReQ/preT9hV23f2YJ0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Runtime.Extensions.dll",
+      "Size": 5120,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "6Vu52HnCK5DS31MSQ1aVWhSlfrw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Runtime.Serialization.dll",
+      "Size": 840704,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "PjiaN5ZWtXhrYByOzQpJ8Rmlyso",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Runtime.Serialization.Xml.dll",
+      "Size": 7168,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "0srTtegP4BBWYTsNlCwXfMbQzKE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.ServiceModel.Internals.dll",
+      "Size": 218112,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "nv/tWv+kx1ZtRdn8QDE9E2msOeA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Text.Encoding.dll",
+      "Size": 5120,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "fAZdT1nGMvltlI20wcZWAIJnRts",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Text.Encoding.Extensions.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "J62P5HyNTQJ1DYYDo+GhjQ4v7cI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Text.RegularExpressions.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "w7X6yHU5cuaKwyuFzETKi1iWbDA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Threading.dll",
+      "Size": 5632,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "/9s6bx8kULltAQLCwI+++GQYp4Y",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Threading.Timer.dll",
+      "Size": 4608,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "sS2p37wTX93Erpmu6M1iyOCW2aM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Transactions.dll",
+      "Size": 33280,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "zhCHMvnuRMGOZDTIhrzXXhEum70",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Xml.dll",
+      "Size": 2414592,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "5iVBjwZTpyBw4GqkZG/9z+Beax4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Xml.Linq.dll",
+      "Size": 119296,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "J9mvsx21T69xo6eAJfcD5hBDubg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/System.Xml.XPath.XDocument.dll",
+      "Size": 5120,
+      "LastWriting": "2020-11-14T02:23:08Z",
+      "Hash": "0wN2Wbb5ERsTKBQWJfmarwrzX5Y",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Unity.TextMeshPro.dll",
+      "Size": 368128,
+      "LastWriting": "2020-11-24T02:36:14.9880918Z",
+      "Hash": "aiuFQMTm7C/PisSnTL5FQbwE1to",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/Unity.Timeline.dll",
+      "Size": 108544,
+      "LastWriting": "2020-11-24T02:36:14.757379Z",
+      "Hash": "Rt37lSoRyxdlqnMmFbC9f7a5XDw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Size": 12288,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "gntEs75aoJzA5AxFWWVScJiPi9k",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AIModule.dll",
+      "Size": 44544,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "SnMbm++v/+bmIvS6DsXpSMu/uCE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "Size": 57344,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "EVp8x+vD06b+BqoHNJu5xrNTz8c",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Size": 145920,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "aDHFOaHzNzHXF5hxKs2n2pboqzY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ARModule.dll",
+      "Size": 12800,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "pY5oPrM87jsqxg1mTyBSIvTX0jY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Size": 21504,
+      "LastWriting": "2020-11-14T01:09:50Z",
+      "Hash": "jGl7c7ASM+CdhTnqoB0SDIXkBqM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.AudioModule.dll",
+      "Size": 57344,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "PmBtTWZ/VaCHySud3ZUa1spFTWA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ClothModule.dll",
+      "Size": 15872,
+      "LastWriting": "2020-11-14T01:09:56Z",
+      "Hash": "uyF3jyrtLw/1uej1GkOcEkKmq3U",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "bj23BwIy1yx0999aEX6B+ZmnSgE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Size": 9216,
+      "LastWriting": "2020-11-14T01:09:48Z",
+      "Hash": "J4/i/JeF9TlbOz1J7BREuGclEfU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.CoreModule.dll",
+      "Size": 1005568,
+      "LastWriting": "2020-11-14T01:09:42Z",
+      "Hash": "vQEUVUQSHYhniaJ1iT43Aeb7a+0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:10:12Z",
+      "Hash": "irgv/Z29XDwVWpGXZ6GVK4CqrbQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Size": 13312,
+      "LastWriting": "2020-11-14T01:09:52Z",
+      "Hash": "s2fuhWqufTS/uybT3qLwTWst4+0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.dll",
+      "Size": 84992,
+      "LastWriting": "2020-11-14T01:10:16Z",
+      "Hash": "Eji/QGcPR09x+l3XLK3SC2l7fKA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "Size": 17920,
+      "LastWriting": "2020-11-14T01:09:50Z",
+      "Hash": "ikmNTB3gMzJUuLd4ZTNYiPgPDQw",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Size": 27136,
+      "LastWriting": "2020-11-14T01:09:50Z",
+      "Hash": "8vmF86Dr19C/LK0eZCk24v2W1xc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.GridModule.dll",
+      "Size": 13824,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "svphUHamYsLIuqswn4lvivSBSE0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-11-14T01:09:44Z",
+      "Hash": "YyE2/FqcG73oa7SHT2Dj4S1XUAI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Size": 12800,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "JsE4XlIQTukec+YgGCByqkmTd8Q",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Size": 156160,
+      "LastWriting": "2020-11-14T01:09:56Z",
+      "Hash": "zEhbzhQR/uP6KAYzBvLuOBp4pVk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "Size": 25600,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "B+ymp8aALPD7H1Qx1vWpNWk+PPs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.InputModule.dll",
+      "Size": 12288,
+      "LastWriting": "2020-11-14T01:09:52Z",
+      "Hash": "pApDYSre+UxuoXae944DmFJdNKs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "egpZdjzW5btsCj15T7IwV9kTMEk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "ZofJX+6iofRSi+VuzFMC62GTMhQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Size": 134656,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "t4LYwfjGbfh3iXePAwJWKBB1l3I",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Size": 9216,
+      "LastWriting": "2020-11-14T01:10:14Z",
+      "Hash": "U9Y9OiPk4bkbmZioQWeZSJb3ipQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Size": 105984,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "fV9pJpexsdbosmSlQ4BVTyilEgE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Size": 87040,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "2M50wR/M2CRhLXUo6bBbgFOrGN8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "v90lOYe/MnAIbNez9S36Dw74AEs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:09:50Z",
+      "Hash": "XFDT0MYTlo9+ILdks3a8bboaSFk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Size": 19456,
+      "LastWriting": "2020-11-14T01:04:58Z",
+      "Hash": "iCwoDCUq3Dzl3pj8weBF05vh7E0",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Size": 10240,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "mq6eUGRTyrjg+cwm0L64barEfKs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Size": 13824,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "rDvZT5VksXkVq1gKp7xAokTeB+4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "RkOxUCbvsBdE/cbScX7dfOWrkLk",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Size": 13312,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "YgPUdc4dBYkFqVuRcHUQOe/dTYA",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "Size": 16896,
+      "LastWriting": "2020-11-14T01:09:52Z",
+      "Hash": "h3RgJCtBDjCKJYAFAxoHovcjsBQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Size": 80384,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "ag0yjOvABUEAUPpc1djIDVT6I8A",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:09:58Z",
+      "Hash": "mFMTWmeQfe6rdof6OIid4xIFvOU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "Size": 183808,
+      "LastWriting": "2020-11-14T01:09:58Z",
+      "Hash": "yqSPD36wx5Dtw49YVlSChk4iu0M",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Size": 27648,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "8TPFHWMmwx2YxtfeIhNqm2141m4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Size": 25088,
+      "LastWriting": "2020-11-14T01:09:58Z",
+      "Hash": "enw7V+yrSY7EzL84WBHsJI2VFzY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.TLSModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "jbsU9kZ4xIqQet8lYv8MTn3UuAc",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UI.dll",
+      "Size": 225792,
+      "LastWriting": "2020-11-24T02:36:14.2944891Z",
+      "Hash": "lYlJah0H+gCmQzg/xhVSiM3RZEU",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Size": 725504,
+      "LastWriting": "2020-11-14T01:10:10Z",
+      "Hash": "t2gjjnX+9wQOpmkWOQ+AgaSJ+0M",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UIModule.dll",
+      "Size": 23040,
+      "LastWriting": "2020-11-14T01:09:54Z",
+      "Hash": "Ap5aN6X4uako8Cx+ab84cdCbgKM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "/tU7xpD49DOxzOW8XGDSGEkiJ0E",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UNETModule.dll",
+      "Size": 77312,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "YX0BxMMFEq1z+Blojl7dNPtTIog",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Size": 32768,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "2/QmiT6cd2VgxQVifSn1fwe9r8U",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "e8sNs7mCfSb6LSunbb7I/wYAT/Y",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Size": 8704,
+      "LastWriting": "2020-11-14T01:09:50Z",
+      "Hash": "QU3gKwZpomtxNSGC/vmnkd8Id1E",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Size": 11776,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "92H22IPbbUXGIkKgkJEQu0PqccI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Size": 11264,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "8o/zwkt9Iv9jgcFNLDc6QMv/k4U",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Size": 43008,
+      "LastWriting": "2020-11-14T01:09:54Z",
+      "Hash": "n3avgg0vZBWegsKkxdK1YYSQqbM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Size": 10752,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "4sgdLzzy5XEi1meY/fT2+k0a9DQ",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Size": 20480,
+      "LastWriting": "2020-11-14T01:10:14Z",
+      "Hash": "VnMhDbXru3m1pc6+mcffha5sNtg",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Size": 12800,
+      "LastWriting": "2020-11-14T01:09:54Z",
+      "Hash": "xkjEgQEgfj3Mas9MkbsHVcnNrjs",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.VFXModule.dll",
+      "Size": 38912,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "HLQ+dXiHZ6sqrjvTXH0LONqfh+8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.VideoModule.dll",
+      "Size": 28672,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "uufgO1g61vVBfSH7FcRTEFZSIh4",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.VRModule.dll",
+      "Size": 34816,
+      "LastWriting": "2020-11-14T01:10:12Z",
+      "Hash": "+ukha4Er5JntTndexpCRFAhR+wE",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.WindModule.dll",
+      "Size": 9728,
+      "LastWriting": "2020-11-14T01:09:46Z",
+      "Hash": "cGEIV8InnjB6Ewk312KgmUHR1aY",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Managed/UnityEngine.XRModule.dll",
+      "Size": 54272,
+      "LastWriting": "2020-11-14T01:10:08Z",
+      "Hash": "56HvMutMChZqM0v74cI/K0gSOIM",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Resources/unity default resources",
+      "Size": 3837020,
+      "LastWriting": "2020-11-14T01:04:58Z",
+      "Hash": "/4zdYHCLgUHv5TITpDRRvT/yDBI",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "Update Tests_Data/Resources/unity_builtin_extra",
+      "Size": 405200,
+      "LastWriting": "2020-11-24T02:36:25.7823114Z",
+      "Hash": "eQmELlkefnE/K+U1LRygD4n13C8",
+      "Attributes": 8224
+    },
+    {
+      "RelativePath": "version.data",
+      "Size": 24,
+      "LastWriting": "2020-11-24T02:36:48.3286786Z",
+      "Hash": "9FqdPckhNfnJaFBj2Rgaiusd2pU",
+      "Attributes": 32
+    }
+  ]
+}

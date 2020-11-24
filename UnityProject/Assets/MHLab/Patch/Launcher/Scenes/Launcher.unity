@@ -523,8 +523,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   RemoteUrl: https://github.com/justbake-bit/Update-Tests/tree/Release/
-  LauncherExecutableName: UpdateTestLauncher.exe
-  GameExecutableName: UpdateTest.exe
+  LauncherExecutableName: Update Tests.exe
+  GameExecutableName: Update Tests.exe
   Dispatcher: {fileID: 1654408391}
   ProgressBar: {fileID: 1700035541}
   DownloadSpeed: {fileID: 8838995311128691409}
